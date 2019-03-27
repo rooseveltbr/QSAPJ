@@ -89,7 +89,7 @@ nomearq = nome + uf + extensao
 
 CopiarArquivo(uri, nomearq)
 
-dados = CopiarDados(nomearq)
+qsapj = CopiarDados(nomearq)
 
-GerarArquivo(nomearq, dados)
+GerarArquivo(nomearq, qsapj)
 
