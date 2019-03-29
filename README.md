@@ -21,4 +21,4 @@ Uso:
 
 3) Digite um nome para gerar o arquivo TXT e tecle ENTER
 
-4) No explorador de arquivos, localize o arquivo "nome.txt"
+4) No explorador de arquivos, localize o arquivo TXT
