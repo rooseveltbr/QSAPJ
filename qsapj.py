@@ -8,7 +8,7 @@
 #
 # Licenciamento: GNU General Public License v3.0
 #
-# Informações:
+# Informações sobre CNPJ e QSAPJ:
 #
 # 1) http://receita.economia.gov.br/orientacao/tributaria/cadastros/consultas-cnpj
 #
