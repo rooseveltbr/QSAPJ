@@ -1,6 +1,5 @@
-===================================================================
 QSAPJ: uma maneira simples de tratar arquivos com o QSAPJ em Python
-===================================================================
+=
 
 Código desenvolvido em linguagem Python que trata o arquivo que contém o Quadro de Sócios e Administradores das Pessoas Jurídicas (QSAPJ) disponível no sítio da Receita Federal do Brasil (RFB) e, em seguida, gera um arquivo TXT com os dados separados por ponto e vírgula.
 
