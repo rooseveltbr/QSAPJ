@@ -6,6 +6,8 @@
 #
 # Versão: 28.03.2019
 #
+# Autor: Roosevelt Gonçalves Oliveira - https://github.com/rooseveltbr
+#
 # Licenciamento: GNU General Public License v3.0
 #
 # Informações sobre CNPJ e QSAPJ:
