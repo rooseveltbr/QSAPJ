@@ -23,7 +23,7 @@ qsapj.CopiarDados(qsapj.nomearq)
 
 qsapj.GerarArquivo(qsapj.nomearq, qsapj.dados)
 
-# Copie o arquivo dos eleitos disponível no sítio do TSE: http://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais
+print("Copie o arquivo dos candidatos eleitos disponível no sítio do TSE: http://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais")
 
 nome_eleitos = input("Informe o nome do arquivo dos eleitos: ")
 
